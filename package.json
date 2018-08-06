@@ -1,0 +1,9 @@
+{
+  "name": "js13k2018",
+  "version": "0.0.1",
+  "description": "Entry for js13k games 2018",
+  "main": "index.html",
+  "repository": "https://github.com/acrawford13/js13k2018",
+  "author": "Andrea Crawford <andrea.crawford13@gmail.com>",
+  "license": "MIT"
+}
